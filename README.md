@@ -35,7 +35,8 @@ This project aims to build a machine learning model capable of predicting reside
 ---
 
 ## 🗂️ Project Structure
-properties_price_prediction_properati/  # Proyecto principal
+
+<pre> ```bash preproperties_price_prediction_properati/  # Proyecto principal
 ├── properties_price_prediction_properati.ipynb  # Notebook principal del proyecto
 ├── data/  # Carpeta general de datos
 │   ├── hospitals/  # Datos georreferenciados de hospitales
@@ -45,6 +46,7 @@ properties_price_prediction_properati/  # Proyecto principal
 ├── images/
 │   └── properati_banner  # Imagen/banner del proyecto
 ├── README.md  # Documentación principal del repositorio
+</pre> ```
 
 ---
 
