@@ -67,6 +67,7 @@ This project aims to build a machine learning model capable of predicting reside
 
 * Experiment with advanced models like XGBoost, LightGBM, or CatBoost (academic limitation: RF)
 * Include temporal features such as listing date and market trends
+* Segmenting the data pero district or propery type to reduce the error due to high variability of prices per district/property types.
 
 
 ---
