@@ -35,9 +35,7 @@ This project aims to build a machine learning model capable of predicting reside
 ---
 
 ## 🗂️ Project Structure
-│
 ├── properties_price_prediction_properati.ipynb #Project
-│
 │
 ├── data/             #Data hosted after downloading from source.
 │   ├── hospitals/               # Hospitals georef. data
@@ -45,10 +43,8 @@ This project aims to build a machine learning model capable of predicting reside
 │   ├── parks/                   # Parks georef. data
 │   ├── precios_ref_ZP_Ene2020/  # Referential prices from Zona Prop - Jan 2020
 │
-│
 ├── images/
 │   ├── properati_banner # Banner image
-│
 │
 ├── README.md
 
