@@ -78,6 +78,15 @@ This project aims to build a machine learning model capable of predicting reside
 * The objective was to apply supervised machine learning techniques to a real-world problem, involving data preprocessing, model selection, hyperparameter tuning, and performance evaluation — with a strong emphasis on interpretability and error analysis.
 
 ---
+
+🚀 Instructions
+
+1. Clone the repository: `git clone https://github.com/tu_usuario/properties_price_prediction_properati.git`
+2. Open jupyter notebook: `properties_price_prediction_properati.ipynb`
+
+Note: Data should be downloaded from data source provided and hosted in the `data` folder with names `df_train` = entrenamiento.csv and `df_test` = a_predecir.csv 
+
+---
   
 ## 📚 Data Source
 
