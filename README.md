@@ -36,7 +36,7 @@ This project aims to build a machine learning model capable of predicting reside
 
 ## 🗂️ Project Structure
 
-<pre> ├── properties_price_prediction_properati.ipynb  # Notebook principal del proyecto
+<pre>├── properties_price_prediction_properati.ipynb  # Notebook principal del proyecto
 ├── data/  # Carpeta general de datos
 │   ├── hospitals/  # Datos georreferenciados de hospitales
 │   ├── neighborhoods/  # Archivos shapefile de distritos/barrios
