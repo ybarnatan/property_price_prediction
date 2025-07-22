@@ -39,15 +39,15 @@ This project aims to build a machine learning model capable of predicting reside
 
 ## 🗂️ Project Structure
 
-<pre>├── properties_price_prediction_properati.ipynb  # Notebook principal del proyecto
-├── data/  # Carpeta general de datos
-│   ├── hospitals/  # Datos georreferenciados de hospitales
-│   ├── neighborhoods/  # Archivos shapefile de distritos/barrios
-│   ├── parks/  # Datos georreferenciados de parques
-│   ├── precios_ref_ZP_Ene2020/  # Precios referenciales de Zona Prop, enero 2020
+<pre>├── properties_price_prediction_properati.ipynb  # Project notebook
+├── data/  # Data folder
+│   ├── hospitals/  # Hospital georef. 
+│   ├── neighborhoods/  # Shapefile for districts
+│   ├── parks/  # Park georef.
+│   ├── precios_ref_ZP_Ene2020/  # Reference for prices,  Zona Prop, Jan. 2020
 ├── images/
-│   └── properati_banner  # Imagen/banner del proyecto
-├── README.md  # Documentación principal del repositorio </pre>
+│   └── properati_banner  # Banner for project
+├── README.md  # Documentation </pre>
 
 ---
 
