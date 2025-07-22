@@ -6,6 +6,9 @@
 
 This project aims to build a machine learning model capable of predicting residential property prices in **CABA (Ciudad Autónoma de Buenos Aires)** using real estate listing data. The model is designed to support buyers, sellers, and real estate professionals in making data-driven decisions by providing pricing insights based on property features and location.
 
+
+📄 Full analysis available in [property_price_prediction](https://github.com/ybarnatan/property_price_prediction/blob/main/Property_price_prediction_Properati_Buenos_Aires.ipynb)
+
 ---
 
 ## 📊 Summary of Findings
