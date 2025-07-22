@@ -25,7 +25,8 @@ This project aims to build a machine learning model capable of predicting reside
   - Handles non-linear relationships
   - Robust against overfitting
   - Provides feature importance metrics
-- - **Best Parameters**: Conducted using custom `grid search`
+    
+- **Best Parameters**: Conducted using custom `grid search`
   - `n_estimators`: 500
   - `max_depth`: 50
   - `min_samples_split`: 10
